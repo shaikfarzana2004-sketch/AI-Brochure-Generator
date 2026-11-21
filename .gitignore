@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.venv/
+.pytest_cache/
+.streamlit/secrets.toml
+pdf/company_brochure.pdf
+brochure_content.txt
